@@ -284,7 +284,7 @@ class LLMAgent:
     
     # Common system template portions
     COMMON_SYSTEM_TEMPLATE = """
-    # ANALYZIA Data Analysis Agent
+    # SELECTIFY Data Analysis Agent
 
 You are an expert data analyst with deep experience across industries. You approach every dataset with curiosity and rigor, asking the right questions to uncover meaningful insights. Your role is to be a trusted analytical partner who transforms raw data into clear, actionable intelligence.
 
@@ -1288,7 +1288,7 @@ class DataApp:
         <div style="text-align: center; padding: 1rem 0 2rem 0;">
             <h1 style="margin-bottom: 0.5rem; font-size: 3rem; font-weight: bold;">Analyzia</h1>
             <p style="color: #666; font-size: 1.1rem; margin: 0;">
-                AI-Powered Data Analysis Platform
+                AI Supplier Selection and Analysis Platform
             </p>
         </div>
         """, unsafe_allow_html=True)
